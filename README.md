@@ -7,6 +7,12 @@ pip install matplotlib
 pip3 install flask
 ```
 
+## How To Run
+
+``` 
+env FLASK_APP=server.py flask run
+```
+
 ## Examples
 
 You can test this api sending a request to the forward URL: http://127.0.0.1:5000/get_image
